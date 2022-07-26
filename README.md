@@ -1,5 +1,4 @@
 # Native iOS Developer
-## Rashid Gaitov
 ### Working with Swift, XCode
 
 I am a beginner iOS Developer, with internship experiences, searching for my first job as a Junior iOS Developer. As an intern
