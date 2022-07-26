@@ -1,7 +1,7 @@
 # Native iOS Developer
 ### Working with Swift, XCode
 
-I am a beginner iOS Developer, with internship experiences, searching for my first job as a Junior iOS Developer. As an intern
+I am a beginner iOS Developer, with internship experiences, searching for my first job as a Junior iOS Developer.
 
 During 2 months internship at **Andersen Lab**, I learnt the theory behind:
 
@@ -22,3 +22,4 @@ During 5 months **Swiftbook.ru** course I learnt:
 
 Skills: **Swift / XCode / Git**
 
+> Не засоряйте свою память обидами, а то там может просто не остаться места для прекрасных мгновений.
