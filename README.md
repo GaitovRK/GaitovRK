@@ -20,6 +20,12 @@ I am a beginner iOS Developer, with internship experiences, searching for my fir
 Before iOS Development, I did research in Nottingham Trent University. You can see my works on Researchgate:
 https://www.researchgate.net/profile/Rashid-Gaitov
 
+Effect of Roof Types on Energy Use in Residential Buildings in Cold Climates
+February 2022
+DOI: 10.1007/978-3-030-94514-5_36
+Conference: 7th International Conference on Architecture, Materials and Construction
+Project: SPRING EU-India Research Project
+Rashid GaitovRashid GaitovSerik TokbolatSerik TokbolatMohamad Y. MustafaMohamad Y. MustafaRajnish Kaur CalayRajnish Kaur Calay
 
 ## Studies
 #### Swiftbook.ru Online School
