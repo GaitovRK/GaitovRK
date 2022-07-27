@@ -16,6 +16,7 @@ I am a beginner iOS Developer, with internship experiences, searching for my fir
 - **Git** commands and GitHub
 - Project management framework Agile Scrum
 
+
 ### Nottingham Trent University
 Before iOS Development, I did research in Nottingham Trent University. You can see my works on Researchgate:
 https://www.researchgate.net/profile/Rashid-Gaitov
@@ -34,11 +35,16 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 - **XCode** integrated development environment
 - Algorithms and their performance **Big-O**
 
+### Jusan Singularity 6 weeks BootCamp
+- Java
+- Algorithms and Data structure
+
+
 ### Bachelor's Degree Nazarbayev University
 I have a Bachelor's Degree in Civil Engineering at Nazarbayev University.
 Have experience in planning building's steel and concrete structures, making strength analysis including seismicity, wind forces, dead and live loads. I can create 3D models of buildings in Revit, AutoCAD; making energy and cost analysis in BeOpt, Plaxis and DesignBuilder.
 
 Skills: **Swift / XCode / Git**
 
-> Не засоряйте свою память обидами, а то там может просто не остаться места для прекрасных мгновений. 
-> Ф. М. Достоевский
+> *Не засоряйте свою память обидами, а то там может просто не остаться места для прекрасных мгновений.*
+> F. M. Dostoevsky
