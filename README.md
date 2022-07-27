@@ -5,7 +5,7 @@ I am a beginner iOS Developer, with internship experiences, searching for my fir
 
 ## Experience
 
-#### Andersen Lab Internship
+### Andersen Lab Internship
 
 - Learnt architectural patterns **MVC, MVP, MVVM, VIP & VIPER**
 - **Multithreaded** programming
@@ -16,24 +16,26 @@ I am a beginner iOS Developer, with internship experiences, searching for my fir
 - **Git** commands and GitHub
 - Project management framework Agile Scrum
 
-#### Nottingham Trent University
+### Nottingham Trent University
 Before iOS Development, I did research in Nottingham Trent University. You can see my works on Researchgate:
 https://www.researchgate.net/profile/Rashid-Gaitov
 
-*Effect of Roof Types on Energy Use in Residential Buildings in Cold Climates*
-DOI: 10.1007/978-3-030-94514-5_36
+#### My Research Papers:
+##### - *Effect of Roof Types on Energy Use in Residential Buildings in Cold Climates* [(Link)](https://www.researchgate.net/publication/358304129_Effect_of_Roof_Types_on_Energy_Use_in_Residential_Buildings_in_Cold_Climates)
 
-*Investigation of the impacts of design parameters on thermal performance of buildings in cold climate*
-DOI: 10.1051/e3sconf/202124607002
+##### - *Investigation of the impacts of design parameters on thermal performance of buildings in cold climate* [(Link)](https://www.researchgate.net/publication/350508978_Investigation_of_the_impacts_of_design_parameters_on_thermal_performance_of_buildings_in_cold_climate) 
+
+
+
 
 ## Studies
-#### Swiftbook.ru Online School
+### Swiftbook.ru Online School
 
 - Learn **Swift** programming language
 - **XCode** integrated development environment
 - Algorithms and their performance **Big-O**
 
-#### Nazarbayev University
+### Nazarbayev University
 I graduated Bachelor's in Civil Engineering at Nazarbayev University.
 
 
