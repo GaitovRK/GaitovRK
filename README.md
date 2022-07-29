@@ -6,7 +6,9 @@ I am a beginner iOS Developer, with internship experiences, searching for my fir
 ## Experience
 
 ### Andersen Lab Internship
+- Finished a project Sheasy application for recipe search. The app uses edamam.com Recipe Search API. The app includes a search bar  with filter, favourites, detail screen with nutrients and calories for each dish.  The app was created based on MVC Architecture. 
 
+#### Studied 16 lectures from iOS team lead on the following topics:
 - Learnt architectural patterns **MVC, MVP, MVVM, VIP & VIPER**
 - **Multithreaded** programming
 - Design patterns **Singleton, Observer, Delegate**, 
