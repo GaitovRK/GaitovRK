@@ -46,7 +46,7 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 I have a Bachelor's Degree in Civil Engineering at Nazarbayev University.
 Have experience in planning building's steel and concrete structures, making strength analysis including seismicity, wind forces, dead and live loads. I can create 3D models of buildings in Revit, AutoCAD; making energy and cost analysis in BeOpt, Plaxis and DesignBuilder.
 
-Skills: **Swift / XCode / Git**
+Skills: **Swift / XCode / Git / Java**
 
 > *Не засоряйте свою память обидами, а то там может просто не остаться места для прекрасных мгновений.*
 > F. M. Dostoevsky
