@@ -32,6 +32,11 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 
 
 ## Studies
+### Software Developer Master's Degree
+#### Bosphorus University (Bogazici University)
+September 2022 - June 2024
+
+
 ### Swiftbook.ru Coding Bootcamp (5 months)
 - Learn **Swift** programming language
 - **XCode** integrated development environment
@@ -42,8 +47,8 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 - Algorithms and Data structure
 
 
-### Bachelor's Degree Nazarbayev University
-I have a Bachelor's Degree in Civil Engineering at Nazarbayev University.
+### Bachelor's Degree in Civil Engineering
+#### Nazarbayev University
 Have experience in planning building's steel and concrete structures, making strength analysis including seismicity, wind forces, dead and live loads. I can create 3D models of buildings in Revit, AutoCAD; making energy and cost analysis in BeOpt, Plaxis and DesignBuilder.
 
 Skills: **Swift / XCode / Git / Java**
