@@ -37,13 +37,15 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 September 2022 - June 2024
 
 
-### Swiftbook.ru Coding Bootcamp (5 months)
+### iOS Developer Bootcamp (5 months)
+#### Swiftbook.ru online Academy
 - Learn **Swift** programming language
 - **XCode** integrated development environment
 - Algorithms and their performance **Big-O**
 
-### Jusan Singularity 6 weeks BootCamp
-- Java
+###  Software Engineering Bootcamp (6 weeks)
+#### Jusan Singularity
+- Java language
 - Algorithms and Data structure
 
 
