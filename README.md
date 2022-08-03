@@ -48,5 +48,6 @@ Have experience in planning building's steel and concrete structures, making str
 
 Skills: **Swift / XCode / Git / Java**
 
+
 > *Не засоряйте свою память обидами, а то там может просто не остаться места для прекрасных мгновений.*
 > F. M. Dostoevsky
