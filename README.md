@@ -3,6 +3,9 @@
 
 I am a beginner iOS Developer, with internship experiences, searching for my first job as a Junior iOS Developer.
 
+Email: rashidgaitov@gmail.com
+Telegram: t.me/gaitovrk
+
 ## Experience
 
 ### Andersen Lab Internship
