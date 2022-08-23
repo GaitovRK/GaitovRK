@@ -1,7 +1,10 @@
 # Native iOS Developer
 ### Working with Swift, XCode
 
-I am a beginner iOS Developer, with internship experiences, searching for my first job as a Junior iOS Developer.
+I am a: 
+- beginner iOS Developer, having internship experiences
+- Msc Student in Software Engineering at Bogazici University
+- searching for my first job as a Junior iOS Developer
 
 Email: rashidgaitov@gmail.com
 Telegram: t.me/gaitovrk
