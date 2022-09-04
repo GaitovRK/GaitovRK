@@ -39,7 +39,7 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 
 ## Studies
 ### Master's Degree in Software Engineering 
-#### Bosphorus University (Bogazici University)
+#### Boğaziçi University
 September 2022 - June 2024
 
 
