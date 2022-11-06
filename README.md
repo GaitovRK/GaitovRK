@@ -10,16 +10,16 @@ Telegram: t.me/gaitovrk
 
 ## Experience
 
-### Jusan Bank
+### iOS Developer in Jusan Bank
 - Implemented messaging functionality with Web-Sockets.
 - Removed RX from project with using own observers, reducing the ”barrier to entry” for new engineers joining the project.
 - Decreased overall project buildtime by getting out of Cocoapods using SwiftPMinstead.
 
-### Profi.kz Mentor
+### Java Mentor in Profi.kz
 - Mentoring students in groups for OOP programming using Java
 - Control Flow, Loops, Methods, Arrays, ArrayLists, Classes and Objects, OOP, Collections, Map.
 
-### Andersen Lab Internship
+### iOS Developer Intern in Andersen Lab
 - Finished a project Sheasy application for recipe search. The app uses edamam.com Recipe Search API. The app includes a search bar  with filter, favourites, detail screen with nutrients and calories for each dish.  The app was created based on MVC Architecture. 
 
 #### Studied 16 lectures from iOS team lead on the following topics:
@@ -33,7 +33,7 @@ Telegram: t.me/gaitovrk
 - Project management framework Agile Scrum
 
 
-### Nottingham Trent University
+### Research Assistant at Nottingham Trent University
 Before iOS Development, I did research in Nottingham Trent University. You can see my works on Researchgate:
 https://www.researchgate.net/profile/Rashid-Gaitov
 
