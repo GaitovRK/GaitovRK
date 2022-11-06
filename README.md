@@ -2,9 +2,8 @@
 ### Working with Swift, XCode
 
 I am a: 
-- beginner iOS Developer, having internship experiences
+- junior iOS Developer, having 1 year of experience
 - Msc Student in Software Engineering at Bogazici University
-- searching for my first job as a Junior iOS Developer
 
 Email: rashidgaitov@gmail.com
 Telegram: t.me/gaitovrk
