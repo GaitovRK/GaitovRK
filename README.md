@@ -10,6 +10,15 @@ Telegram: t.me/gaitovrk
 
 ## Experience
 
+### Jusan Bank
+- Implemented messaging functionality with Web-Sockets.
+- Removed RX from project with using own observers, reducing the ”barrier to entry” for new engineers joining the project.
+- Decreased overall project buildtime by getting out of Cocoapods using SwiftPMinstead.
+
+### Profi.kz Mentor
+- Mentoring students in groups for OOP programming using Java
+- Control Flow, Loops, Methods, Arrays, ArrayLists, Classes and Objects, OOP, Collections, Map.
+
 ### Andersen Lab Internship
 - Finished a project Sheasy application for recipe search. The app uses edamam.com Recipe Search API. The app includes a search bar  with filter, favourites, detail screen with nutrients and calories for each dish.  The app was created based on MVC Architecture. 
 
