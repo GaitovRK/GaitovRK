@@ -1,23 +1,23 @@
-# Native iOS Developer
+# Frontend Developer
 ### Working with Swift, XCode
 
-I am a: 
-- junior iOS Developer, having 1 year of experience
-- Msc Student in Software Engineering at Bogazici University
+I am a front-end developer specializing in web and mobile application development, proficient in technologies such as React.js, Tailwind, Redux, SwiftUI, UIKit, MapKit, RxSwift, Kingfisher and Firebase. I am well-versed in major collaboration and project management tools such as Git, Figma and JIRA. I am actively seeking a collaborative and motivated team to utilize my development skills in meaningful community projects.
 
 Email: rashidgaitov@gmail.com
 Telegram: t.me/gaitovrk
 
 ## Experience
 
-### iOS Developer in Jusan Bank
-- Implemented messaging functionality with Web-Sockets.
-- Removed RX from project with using own observers, reducing the ”barrier to entry” for new engineers joining the project.
-- Decreased overall project buildtime by getting out of Cocoapods using SwiftPMinstead.
+### Founder at Bestudent.kz
+- Founded and developed Bestudent.kz, an online tutoring platform for high school students, overseeing platform creation, teacher recruitment, and user engagement.
+- Pioneered marketing strategies, resulting in increased user registrations and tutoring sessions.
 
-### Java Mentor in Profi.kz
-- Mentoring students in groups for OOP programming using Java
-- Control Flow, Loops, Methods, Arrays, ArrayLists, Classes and Objects, OOP, Collections, Map.
+### Junior Web Developer Trainee
+- 2-month program includes HTML, CSS, React.js and Node.js, Git and GitHub technologies and preparation for Azure AZ-900 DP-900 certificate exams.
+- As a graduation project, we created an e-commerce website (https://bazarapp-3ba6d.web.app). My role was to implement responsive design and set up the Firebase login and logout functions.
+
+### Programming Tutor at Profi.kz
+- Mentored students of ages between 16-45. Taught basics of OOP with Java. Taught basic Algorithms and how to solve the easy-medium LeetCode problems.
 
 ### iOS Developer Intern in Andersen Lab
 - Finished a project Sheasy application for recipe search. The app uses edamam.com Recipe Search API. The app includes a search bar  with filter, favourites, detail screen with nutrients and calories for each dish.  The app was created based on MVC Architecture. 
