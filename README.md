@@ -1,26 +1,27 @@
-# Web & iOS Developer
-### Working with Swift, XCode & JavaScript, React, Tailwind
+#iOS Developer
+### Working with Swift, XCode
 
-I am a front-end developer specializing in web and mobile application development, proficient in technologies such as React.js, Tailwind, Redux, SwiftUI, UIKit, MapKit, RxSwift, Kingfisher and Firebase. I am well-versed in major collaboration and project management tools such as Git, Figma and JIRA. I am actively seeking a collaborative and motivated team to utilize my development skills in meaningful community projects.
+I am a front-end developer specializing in iOS mobile application development, proficient in technologies such as React.js, Tailwind, Redux, SwiftUI, UIKit, MapKit, RxSwift, Kingfisher and Firebase. I am well-versed in major collaboration and project management tools such as Git, Figma and JIRA. I am actively seeking a collaborative and motivated team to utilize my development skills in meaningful community projects.
 
 Email: rashidgaitov@gmail.com
 Telegram: t.me/gaitovrk
 
 ## Experience
 
-### Founder at Bestudent.kz
-- Founded and developed Bestudent.kz, an online tutoring platform for high school students, overseeing platform creation, teacher recruitment, and user engagement.
-- Pioneered marketing strategies, resulting in increased user registrations and tutoring sessions.
+### Freelance iOS Developer
+- **Micro-learning App**: Currently developing an iOS app for a small startup. The app is a platform for short and engaging video lessons. The app includes a user log in, profile page, favourites, main menu, list of courses, a search bar and filters. The application is structured according to MVVM architecture. The tech stack: SwiftUI, Firebase, AVKit, CoreData.
+- **Recipe Search App:** Application for searching recipes. It has a list of popular recipes, search and filtering options, a list of favourites, recipe ingredients and a video for each recipe. The tech stack: UIKit, Foundation, URLSession, REST API.
+- **Focus Timer App:** Application for putting a timer while working. It silences the phone from notifications and reminds you to have a break. Includes additionally Settings, and Profile page. The tech stack: SwiftUI, UIKit, CoreData, User Notifications.
 
-### Junior Web Developer Trainee
-- 2-month program includes HTML, CSS, React.js and Node.js, Git and GitHub technologies and preparation for Azure AZ-900 DP-900 certificate exams.
-- As a graduation project, we created an e-commerce website (https://bazarapp-3ba6d.web.app). My role was to implement responsive design and set up the Firebase login and logout functions.
+### Web Developer Intern at Koc Holding
+- **Training and a Group Project:** Training topics: Azure Cloud Computing, HTML, CSS, React.js, Git, and Soft-skills. Created an online e-commerce web-app (link) as a group project. The App is developed using React.js, and Tailwind.css frameworks and uses Firebase for the login/logout.
 
 ### Programming Tutor at Profi.kz
-- Mentored students of ages between 16-45. Taught basics of OOP with Java. Taught basic Algorithms and how to solve the easy-medium LeetCode problems.
+- Group Lessons: Coaching beginners principles of OOP using the Java, and preparing for the technical interviews by solving problems. Working with groups of 2-3 students. Trained from zero to intern 18 students in total.
+- Algorithm Problems: Solving and analyzing easy and medium problems from LeetCode, HackerRank and CoderByte platforms.
 
 ### iOS Developer Intern in Andersen Lab
-- Finished a project Sheasy application for recipe search. The app uses edamam.com Recipe Search API. The app includes a search bar  with filter, favourites, detail screen with nutrients and calories for each dish.  The app was created based on MVC Architecture. 
+- **Recipes iOS App Project:** Created from scratch an app which provides the user with different recipes. The user is able to search, filter, watch the video recipe by loading the data from the Edamam API. The App is written fully in Swift language, using XCode IDE and UiKit framework. Based on the MVVM Architecture.
 
 #### Studied 16 lectures from iOS team lead on the following topics:
 - Learnt architectural patterns **MVC, MVP, MVVM, VIP & VIPER**
@@ -43,8 +44,6 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 ##### - *Investigation of the impacts of design parameters on thermal performance of buildings in cold climate* [(Link)](https://www.researchgate.net/publication/350508978_Investigation_of_the_impacts_of_design_parameters_on_thermal_performance_of_buildings_in_cold_climate) 
 
 
-
-
 ## Studies
 ### Master's Degree in Software Engineering 
 #### Boğaziçi University
@@ -57,18 +56,13 @@ September 2022 - June 2024
 - **XCode** integrated development environment
 - Algorithms and their performance **Big-O**
 
-###  Software Engineering Bootcamp (6 weeks)
-#### Jusan Singularity
-- Java language
-- Algorithms and Data structure
 
+- Ctrl+ Future: Junior Web Developer Training - _Koc Holding and Microsoft_
+- First Step to Software: iOS App Development - _Kodluyoruz and Microsoft _
+- The Complete iOS App Development Bootcamp - _Dr. Angela Yu_
+- Java Programming Masterclass - _Learn Programming Academy_
 
-### Bachelor's Degree in Civil Engineering
-#### Nazarbayev University
-Have experience in planning building's steel and concrete structures, making strength analysis including seismicity, wind forces, dead and live loads. I can create 3D models of buildings in Revit, AutoCAD; making energy and cost analysis in BeOpt, Plaxis and DesignBuilder.
+Skills: **Swift / UIKit / SwiftUI / GIT**
 
-Skills: **Swift / XCode / Git / Java**
-
-
-> *Не засоряйте свою память обидами, а то там может просто не остаться места для прекрасных мгновений.*
-> F. M. Dostoevsky
+> *Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present.*
+> Kung-Fu Panda
