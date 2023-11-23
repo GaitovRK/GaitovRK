@@ -50,17 +50,11 @@ https://www.researchgate.net/profile/Rashid-Gaitov
 September 2022 - June 2024
 
 
-### iOS Developer Bootcamp (5 months)
-#### Swiftbook.ru online Academy
-- Learn **Swift** programming language
-- **XCode** integrated development environment
-- Algorithms and their performance **Big-O**
-
-
-- Ctrl+ Future: Junior Web Developer Training - _Koc Holding and Microsoft_
-- First Step to Software: iOS App Development - _Kodluyoruz and Microsoft _
-- The Complete iOS App Development Bootcamp - _Dr. Angela Yu_
-- Java Programming Masterclass - _Learn Programming Academy_
+### Certificates
+#### Ctrl+ Future: Junior Web Developer Training - _Koc Holding and Microsoft_
+#### First Step to Software: iOS App Development - _Kodluyoruz and Microsoft _
+#### The Complete iOS App Development Bootcamp - _Dr. Angela Yu_
+#### Java Programming Masterclass - _Learn Programming Academy_
 
 Skills: **Swift / UIKit / SwiftUI / GIT**
 
