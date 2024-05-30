@@ -1,5 +1,5 @@
-# iOS Developer
-### Working with Swift, XCode
+# iOS Developerl
+### Working with Swift, XCode, interested in LLMs and Augmented Reality
 
 I am a front-end developer specializing in iOS mobile application development, proficient in technologies such as React.js, Tailwind, Redux, SwiftUI, UIKit, MapKit, RxSwift, Kingfisher and Firebase. I am well-versed in major collaboration and project management tools such as Git, Figma and JIRA. I am actively seeking a collaborative and motivated team to utilize my development skills in meaningful community projects.
 
