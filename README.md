@@ -1,4 +1,11 @@
-# Software Development
+
+<div>
+  <a href="https://github.com/gaitovrk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaitovrk&show_icons=true&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaitovrk&hide=glsl,shaderlab&layout=compact&langs_count=5&theme=great-gatsby"/>
+</div>
+
+<!---
 ### Working with Swift, XCode, interested in LLMs and Augmented Reality
 
 I am a front-end developer specializing in iOS mobile application development, proficient in technologies such as React.js, Tailwind, Redux, SwiftUI, UIKit, MapKit, RxSwift, Kingfisher and Firebase. I am well-versed in major collaboration and project management tools such as Git, Figma and JIRA. I am actively seeking a collaborative and motivated team to utilize my development skills in meaningful community projects.
@@ -9,7 +16,7 @@ Telegram: t.me/gaitovrk
 ## Experience
 
 ### Freelance iOS Developer
-- **Micro-learning App**: Currently developing an iOS app for a small startup. The app is a platform for short and engaging video lessons. The app includes a user log in, profile page, favourites, main menu, list of courses, a search bar and filters. The application is structured according to MVVM architecture. The tech stack: SwiftUI, Firebase, AVKit, CoreData.
+- **Micro-learning App**: Currently developing an iOS app for a small startup. The app is a platform for short and engaging video lessons. The app includes a user login, profile page, favourites, main menu, list of courses, a search bar and filters. The application is structured according to MVVM architecture. The tech stack: SwiftUI, Firebase, AVKit, CoreData.
 - **Recipe Search App:** Application for searching recipes. It has a list of popular recipes, search and filtering options, a list of favourites, recipe ingredients and a video for each recipe. The tech stack: UIKit, Foundation, URLSession, REST API.
 - **Focus Timer App:** Application for putting a timer while working. It silences the phone from notifications and reminds you to have a break. Includes additionally Settings, and Profile page. The tech stack: SwiftUI, UIKit, CoreData, User Notifications.
 
@@ -58,5 +65,8 @@ September 2022 - June 2024
 
 Skills: **Swift / UIKit / SwiftUI / GIT**
 
+
 > *Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present.*
 > Kung-Fu Panda
+
+-->
