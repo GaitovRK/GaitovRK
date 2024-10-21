@@ -1,7 +1,7 @@
 
 <div>
   <a href="https://github.com/gaitovrk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaitovrk&show_icons=true&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaitovrk&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaitovrk&hide=glsl,shaderlab&layout=compact&langs_count=5&theme=great-gatsby"/>
 </div>
 
