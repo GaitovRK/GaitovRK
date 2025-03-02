@@ -1,3 +1,8 @@
+### Building AI, Educational and Productivity iOS Apps.
+
+* **Frameworks:** SwiftUI, UIKit, XCTest, React, Tailwind, Django
+* **Architecture:** OOP, MVC, MVVM, VIPER, Clean Architecture, SOLID principles
+* **Tools and Platforms:** XCode, Git, Firebase, RESTful APIs, Azure, Figma, Trello, Unity
 
 <div>
   <a href="https://github.com/gaitovrk">
@@ -5,15 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaitovrk&hide=glsl,shaderlab&layout=compact&langs_count=5&exclude_repo=SWE585-Fall24"/>
 </div>
 
-### Building AI, Educational and Productivity iOS Apps.
 
-• **Frameworks:** SwiftUI, UIKit, XCTest, React, Tailwind, Django
-• **Architecture:** OOP, MVC, MVVM, VIPER, Clean Architecture, SOLID principles
-• **Tools and Platforms:** XCode, Git, Firebase, RESTful APIs, Azure, Figma, Trello, Unity
-
-
-Email: rashidgaitov@gmail.com
-[Telegram: t.me/gaitovrk](t.me/gaitovrk)
+Email: rashidgaitov@gmail.com <br>
+Telegram: [t.me/gaitovrk](t.me/gaitovrk) <br>
 
 <!---
 ## Experience
