@@ -6,12 +6,15 @@
 </div>
 
 <!---
-### Working with Swift, XCode, interested in LLMs and Augmented Reality
+### Building AI, Educational and Productivity iOS Apps.
 
-I am a front-end developer specializing in iOS mobile application development, proficient in technologies such as React.js, Tailwind, Redux, SwiftUI, UIKit, MapKit, RxSwift, Kingfisher and Firebase. I am well-versed in major collaboration and project management tools such as Git, Figma and JIRA. I am actively seeking a collaborative and motivated team to utilize my development skills in meaningful community projects.
+• **Frameworks:** SwiftUI, UIKit, XCTest, React, Tailwind, Django
+• **Architecture:** OOP, MVC, MVVM, VIPER, Clean Architecture, SOLID principles
+• **Tools and Platforms:** XCode, Git, Firebase, RESTful APIs, Azure, Figma, Trello, Unity
+
 
 Email: rashidgaitov@gmail.com
-Telegram: t.me/gaitovrk
+[Telegram: t.me/gaitovrk](t.me/gaitovrk)
 
 ## Experience
 
