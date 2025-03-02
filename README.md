@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaitovrk&hide=glsl,shaderlab&layout=compact&langs_count=5&exclude_repo=SWE585-Fall24"/>
 </div>
 
-<!---
 ### Building AI, Educational and Productivity iOS Apps.
 
 • **Frameworks:** SwiftUI, UIKit, XCTest, React, Tailwind, Django
@@ -16,6 +15,7 @@
 Email: rashidgaitov@gmail.com
 [Telegram: t.me/gaitovrk](t.me/gaitovrk)
 
+<!---
 ## Experience
 
 ### Freelance iOS Developer
