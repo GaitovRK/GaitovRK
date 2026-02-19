@@ -1,6 +1,6 @@
 ### Building AI, Educational and Productivity iOS Apps.
 
-* **Frameworks:** SwiftUI, UIKit, XCTest, React, Tailwind, Django
+* **Frameworks:** SwiftUI, UIKit, XCTest, React, Tailwind, Django, Nextjs, Nodejs (Express)
 * **Architecture:** OOP, MVC, MVVM, VIPER, Clean Architecture, SOLID principles
 * **Tools and Platforms:** XCode, Git, Firebase, RESTful APIs, Azure, Figma, Trello, Unity
 
