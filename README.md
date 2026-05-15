@@ -11,9 +11,6 @@
 </div>
 
 
-Email: rashidgaitov@gmail.com <br>
-Telegram: [t.me/gaitovrk](t.me/gaitovrk) <br>
-
 <!---
 ## Experience
 
