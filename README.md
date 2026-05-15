@@ -4,12 +4,6 @@
 * **Architecture:** OOP, MVC, MVVM, VIPER, Clean Architecture, SOLID principles
 * **Tools and Platforms:** XCode, Git, Firebase, RESTful APIs, Azure, Figma, Trello, Unity
 
-<div>
-  <a href="https://github.com/gaitovrk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaitovrk&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaitovrk&hide=glsl,shaderlab&layout=compact&langs_count=5&exclude_repo=SWE585-Fall24"/>
-</div>
-
 
 <!---
 ## Experience
